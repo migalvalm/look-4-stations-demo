@@ -1,4 +1,4 @@
-# Stations Listing App POC 
+# Searching Station POC
 
 ![Screenshot 2023-12-15 at 23 27 34](https://github.com/migalvalm/look-4-stations-demo/assets/59445459/233b774c-1d82-4e0f-9dec-a937a18f9628)
 
