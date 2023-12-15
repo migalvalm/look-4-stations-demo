@@ -1,4 +1,7 @@
-# React Frontend App with Vite and Node
+# Stations Listing App POC 
+
+![Screenshot 2023-12-15 at 19 01 20](https://github.com/migalvalm/stations-demo/assets/59445459/f66698a4-2442-4ba5-981f-3a9424f4e1ef)
+
 
 This is a React frontend application built with Vite and Node 18.17.0.
 
