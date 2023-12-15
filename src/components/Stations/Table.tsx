@@ -20,7 +20,7 @@ interface TableProps {
 
 const Table: React.FC<TableProps> = ({ tbodyData }) => {  
   return (
-    <table className={'bg-white rounded-md px-8 py-8'}>
+    <table className='bg-nav-background'>
       <thead className='bg-header-background border border-header-background'>
           <tr className='bg-header-background border border-header-background'>
             {STATION_HEADERS.map((h) => {

@@ -25,11 +25,11 @@ const TableRow = ({ station, index  }) => {
 
   return (
     <tr key={index}>
-        <td className="pr-8 font-light text-sm text-body whitespace-nowrap">{station.id}</td>
-        <td className="pr-8 font-light text-sm text-body">{station.address}</td>
-        <td className="pr-8 font-light text-sm text-body">{station.socketNumber}</td>
-        <td className="pr-8 font-light text-sm text-body">{station.socketType}</td>
-        <td className="pr-8 font-light text-sm text-body">
+        <td className="text-center font-light text-sm text-title whitespace-nowrap">{station.id}</td>
+        <td className="text-center font-light text-sm text-title">{station.address}</td>
+        <td className="text-center font-light text-sm text-title">{station.socketNumber}</td>
+        <td className="text-center font-light text-sm text-title">{station.socketType}</td>
+        <td className="text-center font-light text-sm text-title">
           <button onClick={handleFavoriteToggle}>
             { station.favorite ? 'Unfavorite' : 'Favorite' }
           </button>

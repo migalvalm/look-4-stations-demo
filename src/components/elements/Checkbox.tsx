@@ -11,7 +11,7 @@ interface CheckboxProps {
 export const Checkbox: React.FC<CheckboxProps> = ({label, className, checked, value, onChange}) => {
   return (
     <div className={`${className}`}> 
-      <Text className="mr-auto whitespace-normal">{label}</Text>
+      <Text className="mr-auto whitespace-normal text-sub-title">{label}</Text>
       <input
         checked={checked}
         type="checkbox"

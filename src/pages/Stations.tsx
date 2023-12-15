@@ -40,7 +40,7 @@ export const Stations = () => {
     <div className='flex flex-col justify-center px-56 py-12 space-y-8 w-full h-full'>
       <div className='space-y-2'>
         <Text className='text-title text-3xl font-bold'> Charging Stations </Text>
-        <Text className='text-body'> {pluralize(filteredStations.length, 'charging station')} </Text>
+        <Text className='text-sub-title'> {pluralize(filteredStations.length, 'charging station')} </Text>
       </div>
       <div className="flex justify-between">
         <SocketFilter />

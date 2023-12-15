@@ -12,14 +12,15 @@ export default {
     extend: {
       colors: {
         'normal': {
-          '100': '#3daa36',
-          '50': '#a9d4aa',
-        },// Green
-        'error': '#F54B23', // Red
+          '100': '#B6BBC4',
+          '50': '#92969d',
+        },// Red
         'header-background': '#eaf0f6',
-        'background': '#e8ecee',
-        'title': '#00234b',
-        'body': '#647a9a'
+        'background': '#31304D',
+        'nav-background': '#161A30',
+        'title': '#F0ECE5',
+        'sub-title': '#d8d4ce',
+        'body': '#161A30'
       },
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif']
