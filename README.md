@@ -30,7 +30,6 @@ You need to have the following installed on your system:
 ### Installing
 
 1. Clone the repository to your local machine.
-2. Navigate to the `app` directory of the project.
-3. Install the required packages by running `npm install`.
-4. Start the development server by running `npm run dev`.
+2. Install the required packages by running `npm install`.
+3. Start the development server by running `npm run dev`.
 
