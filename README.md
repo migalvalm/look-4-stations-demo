@@ -1,6 +1,6 @@
 # Stations Listing App POC 
 
-![Screenshot 2023-12-15 at 19 01 20](https://github.com/migalvalm/stations-demo/assets/59445459/f66698a4-2442-4ba5-981f-3a9424f4e1ef)
+![Screenshot 2023-12-15 at 23 27 34](https://github.com/migalvalm/look-4-stations-demo/assets/59445459/233b774c-1d82-4e0f-9dec-a937a18f9628)
 
 
 This is a React frontend application built with Vite and Node 18.17.0.
