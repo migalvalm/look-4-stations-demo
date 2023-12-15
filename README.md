@@ -2,7 +2,7 @@
 
 This is a React frontend application built with Vite and Node 18.17.0.
 
-## [Challenge Tech Doc](./docs/challenge-tech-doc.pdf)
+## [Technical Documentation](./docs/tech-doc.pdf)
 
 ## Built With
 
